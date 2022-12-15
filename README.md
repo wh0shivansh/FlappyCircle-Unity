@@ -16,4 +16,4 @@ Hope You All Enjoy The Game.
 
 SCREENSHOTS:
 
-![GAME1](game1.jpg) 
+![GAME1](gamepic.jpg) 
